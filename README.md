@@ -1,4 +1,4 @@
-# 🧴 Skincare Product Sales Dashboard (Power BI)
+#  Skincare Product Sales Dashboard (Power BI)
 
 ## 📌 Project Overview
 An interactive Power BI dashboard analyzing skincare product sales, customer behavior, platform performance, and revenue trends.
